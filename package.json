@@ -6,7 +6,8 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start:circle": "nodemon src/circle/index.js",
-		"start:rooms": "nodemon src/rooms/index.js"
+		"start:rooms": "nodemon src/rooms/index.js",
+		"start:namespaces": "nodemon src/namespaces/index.js"
 	},
 	"keywords": [],
 	"author": "Mauro Brandan <maurobrandan.mb@gmail.com>",
