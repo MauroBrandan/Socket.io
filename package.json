@@ -7,7 +7,8 @@
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start:circle": "nodemon src/circle/index.js",
 		"start:rooms": "nodemon src/rooms/index.js",
-		"start:namespaces": "nodemon src/namespaces/index.js"
+		"start:namespaces": "nodemon src/namespaces/index.js",
+		"start:offline": "nodemon src/offline/index.js"
 	},
 	"keywords": [],
 	"author": "Mauro Brandan <maurobrandan.mb@gmail.com>",
